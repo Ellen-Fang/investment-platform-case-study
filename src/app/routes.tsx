@@ -63,4 +63,6 @@ export const router = createBrowserRouter([
       },
     ],
   },
-]);
+], {
+  basename: '/investment-platform-case-study/',
+});
