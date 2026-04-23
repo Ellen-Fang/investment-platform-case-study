@@ -68,9 +68,6 @@ npm run build
 ### Community Page
 ![Community Page](./screenshots/community.png)
 
-### Reward System
-![Reward System](./screenshots/reward.png)
-
 ## Reflection
 
 This project is mainly a front-end prototype focused on product presentation and interface design. Rather than leaving the concept as a static proposal, I chose to develop it into a working website to better communicate the product idea.
