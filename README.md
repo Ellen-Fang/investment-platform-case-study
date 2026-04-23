@@ -63,10 +63,10 @@ npm run build
 ## Screenshots
 
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./screen%20shots/home.PNG)
 
 ### Community Page
-![Community Page](./screenshots/community.png)
+![Community Page](./screen%20shots/community.PNG)
 
 ## Reflection
 
