@@ -41,6 +41,25 @@ This project aimed to:
 - GitHub Repository: [Repository](https://github.com/Ellen-Fang/investment-platform-case-study)
 - Project Proposal PDF: [Proposal](./永你一起豐.pdf)
 
+## Run Locally
+
+To run this project locally:
+
+### Install dependencies
+```bash
+npm install
+```
+
+### Start development server
+```bash
+npm run build
+```
+
+### Build for production
+```bash
+npm run build
+```
+
 ## Screenshots
 
 ### Home Page
